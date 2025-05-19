@@ -1,0 +1,24 @@
+:root {
+    --background-color: #D5E1EF;
+    --title-color: #1F314F;
+    --card-background-color: #FFFFFF;
+    --paragraph-color: #68778D
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: var(--background-color);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card {
+    width: 320px;
+    height: 499px;
+    background-color: var(--card-background-color);
+}
+
