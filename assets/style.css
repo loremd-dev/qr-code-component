@@ -52,3 +52,9 @@ main {
     color: var(--paragraph-color);
 }
 
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    padding: 5px;
+}
